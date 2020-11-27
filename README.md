@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 The game implemented using react, redux and hooks on javascript.
 
+Currently, tank move to right can explor map.
+
 In the project directory, you can run:
 
 1. `npm i`
